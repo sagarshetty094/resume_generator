@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.background{
+    background-image: url(images.jpg);
+
+    text-emphasis-color: inherit;
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+}
+.bg{
+    background-image: url(b6e.jpg);
+    background-size: cover;
+    text-emphasis-color: inherit ;
+
+}
